@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Malek A.Almosanif</h1>
-<h3 align="center">A passionate Backend developer from Yemen</h3>
+<h3 align="center">Backend & AI Engineer | Django, Express.js | Machine Learning & Computer Vision from Yemen</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
